@@ -1,0 +1,314 @@
+{
+  "ambulanceFlow_lane1201246962.0": {
+    "vehid": "ambulanceFlow_lane1201246962.0",
+    "vehicle_type": "ambulance",
+    "speed": 0.0,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "stopped"
+  },
+  "ambulance_0": {
+    "vehid": "ambulance_0",
+    "vehicle_type": "ambulanceType",
+    "speed": 0.0,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus10": {
+    "vehid": "bus10",
+    "vehicle_type": "bus_bus",
+    "speed": 9.57,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus11": {
+    "vehid": "bus11",
+    "vehicle_type": "bus_bus",
+    "speed": 5.81,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus2": {
+    "vehid": "bus2",
+    "vehicle_type": "bus_bus",
+    "speed": 4.5,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus5": {
+    "vehid": "bus5",
+    "vehicle_type": "bus_bus",
+    "speed": 8.83,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus6": {
+    "vehid": "bus6",
+    "vehicle_type": "bus_bus",
+    "speed": 4.1,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus7": {
+    "vehid": "bus7",
+    "vehicle_type": "bus_bus",
+    "speed": 5.51,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus8": {
+    "vehid": "bus8",
+    "vehicle_type": "bus_bus",
+    "speed": 10.51,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "bus9": {
+    "vehid": "bus9",
+    "vehicle_type": "bus_bus",
+    "speed": 21.38,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck11": {
+    "vehid": "truck11",
+    "vehicle_type": "truck_truck",
+    "speed": 5.21,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck12": {
+    "vehid": "truck12",
+    "vehicle_type": "truck_truck",
+    "speed": 14.55,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck13": {
+    "vehid": "truck13",
+    "vehicle_type": "truck_truck",
+    "speed": 12.23,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck14": {
+    "vehid": "truck14",
+    "vehicle_type": "truck_truck",
+    "speed": 13.95,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck15": {
+    "vehid": "truck15",
+    "vehicle_type": "truck_truck",
+    "speed": 13.36,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck16": {
+    "vehid": "truck16",
+    "vehicle_type": "truck_truck",
+    "speed": 1.89,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck17": {
+    "vehid": "truck17",
+    "vehicle_type": "truck_truck",
+    "speed": 6.01,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck18": {
+    "vehid": "truck18",
+    "vehicle_type": "truck_truck",
+    "speed": 15.25,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck19": {
+    "vehid": "truck19",
+    "vehicle_type": "truck_truck",
+    "speed": 14.1,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck2": {
+    "vehid": "truck2",
+    "vehicle_type": "truck_truck",
+    "speed": 4.63,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck20": {
+    "vehid": "truck20",
+    "vehicle_type": "truck_truck",
+    "speed": 22.91,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck21": {
+    "vehid": "truck21",
+    "vehicle_type": "truck_truck",
+    "speed": 9.31,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck22": {
+    "vehid": "truck22",
+    "vehicle_type": "truck_truck",
+    "speed": 12.32,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck23": {
+    "vehid": "truck23",
+    "vehicle_type": "truck_truck",
+    "speed": 3.3,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck7": {
+    "vehid": "truck7",
+    "vehicle_type": "truck_truck",
+    "speed": 11.76,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "truck9": {
+    "vehid": "truck9",
+    "vehicle_type": "truck_truck",
+    "speed": 14.62,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh21": {
+    "vehid": "veh21",
+    "vehicle_type": "veh_passenger",
+    "speed": 3.16,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh22": {
+    "vehid": "veh22",
+    "vehicle_type": "veh_passenger",
+    "speed": 5.43,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh23": {
+    "vehid": "veh23",
+    "vehicle_type": "veh_passenger",
+    "speed": 3.39,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh25": {
+    "vehid": "veh25",
+    "vehicle_type": "veh_passenger",
+    "speed": 11.26,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh26": {
+    "vehid": "veh26",
+    "vehicle_type": "veh_passenger",
+    "speed": 1.1,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh28": {
+    "vehid": "veh28",
+    "vehicle_type": "veh_passenger",
+    "speed": 12.05,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh29": {
+    "vehid": "veh29",
+    "vehicle_type": "veh_passenger",
+    "speed": 12.26,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh30": {
+    "vehid": "veh30",
+    "vehicle_type": "veh_passenger",
+    "speed": 9.36,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh31": {
+    "vehid": "veh31",
+    "vehicle_type": "veh_passenger",
+    "speed": 5.43,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh32": {
+    "vehid": "veh32",
+    "vehicle_type": "veh_passenger",
+    "speed": 10.42,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh33": {
+    "vehid": "veh33",
+    "vehicle_type": "veh_passenger",
+    "speed": 9.34,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh34": {
+    "vehid": "veh34",
+    "vehicle_type": "veh_passenger",
+    "speed": 24.04,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  },
+  "veh35": {
+    "vehid": "veh35",
+    "vehicle_type": "veh_passenger",
+    "speed": 25.06,
+    "alerts_received": 0,
+    "clearance_status": "unknown",
+    "ambulance_status": "N/A"
+  }
+}
